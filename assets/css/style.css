@@ -1033,13 +1033,15 @@ section .container {
   color: #fff;
 }
 
+
+
 .idiomas {
   position: fixed;
   z-index: 10;
   bottom: 10px;
   right: 10px;
-  width: 40px;
-  height: 40px;
+  width: 55px;
+  height: 55px;
   display: flex;
   justify-content: flex-end;
   align-items: flex-end;
@@ -1058,13 +1060,13 @@ section .container {
   position: absolute;
 }
 .idiomas .logo {
-  width: 40px;
-  height: 40px;
+  width: 55px;
+  height: 55px;
   z-index: 9;
   background-image: url("../img/idiomas/idiomas.svg");
-  background-size: 50%;
+  background-size: 60%;
   background-repeat: no-repeat;
-  background-position: 10px 7px;
+  background-position: 10px 14px;
   opacity: 0.9;
   transition: all 1s 0.2s ease;
   bottom: 0;
